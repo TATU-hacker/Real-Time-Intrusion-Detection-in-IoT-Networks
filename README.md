@@ -1,1 +1,3 @@
-# Hybrid Model for Intrusion Detection in IoT Networks: Combining Offline Stability with Online Adaptability
+# Hybrid RF–LSTM Intrusion Detection System for IoT Traffic
+Dataset: CICIoMT2024
+Strategy: Calibrated offline RF teacher + label-free online LSTM student + robust unsupervised drift detection
